@@ -1,0 +1,211 @@
+@media (max-width: 480px) {
+  $vh: 40vh;
+  #slider {
+    ul {
+      height: $vh;
+
+      li {
+        height: $vh;
+
+        .slide {
+          height: $vh;
+        }
+      }
+    }
+  }
+  .teaser {
+    h2 {
+
+    }
+  }
+
+  button.control_prev, button.control_next {
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 0;
+  }
+
+  .navbar-classic .navbar-toggler, .navbar-boxed .navbar-toggler {
+    border: none !important;
+
+  }
+  .navbar-collapse.collapse.show {
+    background: rgba(0, 0, 0, .52);
+  }
+
+  #popluar_courses_carousel {
+    .course_item {
+      padding-right: 0;
+    }
+  }
+
+  .register_now {
+    p {
+      margin-top: 5px !important;
+    }
+  }
+
+  .comment_testimonial .carousel-control i {
+    font-size: 40px !important;
+  }
+  .subscribe {
+    background-position: center !important;
+  }
+
+
+  .footer {
+    .col-md-3 {
+      width: auto;
+    }
+  }
+  .bottom_footer {
+    .heading {
+      h4 {
+        font-size: 18px !important;
+      }
+
+      .sub_heading {
+        font-size: 14px !important;
+        padding: 5px;
+      }
+    }
+
+  }
+
+  .all_courses {
+    .course_order {
+      width: 100%;
+      margin-right: 0 !important;
+      margin-bottom: 10px;
+    }
+
+    .course_search {
+      width: 100%;
+    }
+
+    .course-title {
+      a {
+        font-size: 16px;
+      }
+    }
+  }
+  .all_blogs {
+    .site-content {
+      .entry-header {
+        .entry-contain {
+
+          &:before {
+            top: unset !important;
+          }
+
+          padding-left: 0 !important;
+          padding-top: 20px;
+          float: none;
+          width: 100%;
+          clear: both;
+        }
+      }
+    }
+  }
+  .aside_ad {
+    img {
+      width: 100%;
+    }
+  }
+
+  .top_section {
+    .page-title-wrapper {
+      padding-top: 50px;
+      padding-bottom: 50px;
+
+      .banner-wrapper {
+        h1 {
+          font-size: 35px;
+        }
+      }
+    }
+  }
+
+  .course_detail {
+    .site-content {
+      .course_summary {
+        .course-thumbnail {
+          img {
+            height: auto !important;
+          }
+        }
+
+        .tab_content {
+          padding: 15px 10px;
+
+          .course-description {
+            h4 {
+              font-family: 'Roboto Slab';
+              font-size: 18px;
+            }
+
+
+            .course-content {
+
+
+              float: none;
+              clear: both;
+              border-right: 0;
+              width: 100%;
+              padding-right: 5px;
+
+              .course-title {
+
+              }
+            }
+
+            .course-info {
+              padding-left: 10px;
+            }
+          }
+        }
+      }
+
+
+      .ralated_course {
+        .course-title {
+          a {
+            font-size: 16px;
+          }
+        }
+
+        .lpr_course {
+          margin-bottom: 30px;
+        }
+      }
+
+
+    }
+
+
+  }
+
+  .aside_course_categories, .aside_latest_courses {
+    h4 {
+      font-family: 'Roboto Slab';
+      font-size: 18px;
+    }
+  }
+
+  .blog_detail {
+    .social-share {
+      clear: both;
+      float: none;
+    }
+  }
+
+  .event_detail {
+    .entry-content {
+      width: 100% !important;
+    }
+
+    .event-info {
+      float: none;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="w_assets/css/bootstrap-social.css">
+<link rel="stylesheet" href="w_assets/css/wishlist.css">
+<link rel="stylesheet" href="w_assets/css/style.min.css">
+<link rel="stylesheet" href="w_assets/css/theme.min.css">
+<link rel="stylesheet" href="w_assets/css/styles.css">
+<link rel="stylesheet" href="w_assets/css/frontend.css">
+<link rel="stylesheet" href="w_assets/css/rs6.css">
+<link rel="stylesheet" href="w_assets/css/front-flex.min.css">
+<link rel="stylesheet" href="w_assets/css/woocommerce-layout.css">
+<link rel="stylesheet" href="w_assets/css/woocommerce.css">
+<link rel="stylesheet" href="w_assets/css/jquery.countdown.css">
+<link rel="stylesheet" href="w_assets/css/owl.carousel.css">
+<link rel="stylesheet" href="w_assets/css/magnific-popup.css">
+<link rel="stylesheet" href="w_assets/css/events.min.css">
+<link rel="stylesheet" href="w_assets/css/bundle.min.css">

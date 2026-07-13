@@ -1,0 +1,82 @@
+@media (max-width: 480px) {
+  #slider ul {
+    height: 40vh; }
+    #slider ul li {
+      height: 40vh; }
+      #slider ul li .slide {
+        height: 40vh; }
+  button.control_prev, button.control_next {
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 0; }
+  .navbar-classic .navbar-toggler, .navbar-boxed .navbar-toggler {
+    border: none !important; }
+  .navbar-collapse.collapse.show {
+    background: rgba(0, 0, 0, 0.52); }
+  #popluar_courses_carousel .course_item {
+    padding-right: 0; }
+  .register_now p {
+    margin-top: 5px !important; }
+  .comment_testimonial .carousel-control i {
+    font-size: 40px !important; }
+  .subscribe {
+    background-position: center !important; }
+  .footer .col-md-3 {
+    width: auto; }
+  .bottom_footer .heading h4 {
+    font-size: 18px !important; }
+  .bottom_footer .heading .sub_heading {
+    font-size: 14px !important;
+    padding: 5px; }
+  .all_courses .course_order {
+    width: 100%;
+    margin-right: 0 !important;
+    margin-bottom: 10px; }
+  .all_courses .course_search {
+    width: 100%; }
+  .all_courses .course-title a {
+    font-size: 16px; }
+  .all_blogs .site-content .entry-header .entry-contain {
+    padding-left: 0 !important;
+    padding-top: 20px;
+    float: none;
+    width: 100%;
+    clear: both; }
+    .all_blogs .site-content .entry-header .entry-contain:before {
+      top: unset !important; }
+  .aside_ad img {
+    width: 100%; }
+  .top_section .page-title-wrapper {
+    padding-top: 50px;
+    padding-bottom: 50px; }
+    .top_section .page-title-wrapper .banner-wrapper h1 {
+      font-size: 35px; }
+  .course_detail .site-content .course_summary .course-thumbnail img {
+    height: auto !important; }
+  .course_detail .site-content .course_summary .tab_content {
+    padding: 15px 10px; }
+    .course_detail .site-content .course_summary .tab_content .course-description h4 {
+      font-family: 'Roboto Slab';
+      font-size: 18px; }
+    .course_detail .site-content .course_summary .tab_content .course-description .course-content {
+      float: none;
+      clear: both;
+      border-right: 0;
+      width: 100%;
+      padding-right: 5px; }
+    .course_detail .site-content .course_summary .tab_content .course-description .course-info {
+      padding-left: 10px; }
+  .course_detail .site-content .ralated_course .course-title a {
+    font-size: 16px; }
+  .course_detail .site-content .ralated_course .lpr_course {
+    margin-bottom: 30px; }
+  .aside_course_categories h4, .aside_latest_courses h4 {
+    font-family: 'Roboto Slab';
+    font-size: 18px; }
+  .blog_detail .social-share {
+    clear: both;
+    float: none; }
+  .event_detail .entry-content {
+    width: 100% !important; }
+  .event_detail .event-info {
+    float: none; } }
